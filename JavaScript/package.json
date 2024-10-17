@@ -1,0 +1,12 @@
+{
+  "name": "dio-lab-classes-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kauê Felippe",
+  "license": "ISC",
+  "description": "Projeto implementando os conteúdos abordados ao longo do bootcamp GFT #6 - Lógica de Programação, realizado na plataforma DIO.me."
+}
